@@ -1,0 +1,7 @@
+{
+  "name": "lit-mres",
+  "type": "module",
+  "dependencies": {
+    "lit": "^3.2.1"
+  }
+}
